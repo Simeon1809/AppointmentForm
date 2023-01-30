@@ -15,7 +15,7 @@ namespace AppointmentForm.Controllers
         }
         public IActionResult Details(AppointmentModel Appointment )
         {
-            return View("Details", Appointment);
+            return View("Details", Appointment); 
         }
     }
 }
