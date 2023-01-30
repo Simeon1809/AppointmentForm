@@ -7,5 +7,5 @@ namespace AppointmentForm.Services
 {
     public class Securityservice
     {
-    }
+    } 
 }
