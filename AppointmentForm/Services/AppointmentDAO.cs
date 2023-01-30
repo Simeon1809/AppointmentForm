@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace AppointmentForm.Services
 {
    
-    public class AppointmentDAO
+    public class AppointmentDAO 
     {
     }
 }
